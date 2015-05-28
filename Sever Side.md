@@ -221,4 +221,4 @@ protected void Button1_Click(object sender, EventArgs e) {
 
 运行页面查看以下结果：
 
-图片
+![image](images/asp.net_server_side.jpg)
