@@ -75,13 +75,13 @@ ASP.NET 运行时控制一个页面实例和其状态的关联。一个 ASP.NET 
 
 复制此文件到 web 服务器的根目录。一般的是 c:\iNETput\wwwroot。从浏览器中打开文件然后执行，它就会生成以下结果：
 
-图片
+![image](images/asp.net_first_example.jpg)
 
 ## 使用 Visual Studio IDE
 
 让我们用 Visual Studio IDE 展开同样的例子。不是录入这个编码，你可以直接拖拽控件到设计视图。
 
-图片
+![image](images/asp.net_first_example2.jpg)
 
 内容文件会自动生成。你只需添加的是 Button1_Click 路线，即如下所示：
 
@@ -136,7 +136,7 @@ protected void Button1_Click(object sender, EventArgs e)
 
 通过右键点击设计视图来执行此示例，并且从弹出菜单中选择“在浏览器中查看”。这将生成以下结果：
 
-图片
+![image](images/asp.net_first_example3.jpg)
 
 
 
