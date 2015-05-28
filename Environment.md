@@ -10,7 +10,7 @@ Visual Studio 是一个整体的开发环境，用于编写，编译和除错代
 
 新型的项目窗口允许从可用模板中选择一个应用程序模板。
 
-图片
+![image](images/views_and_windows.jpg)
 
 当你打开一个新的网站，ASP.NET 提供启动文件夹和网站的文件，包括站点中的第一个 web 表单的两个文件。
 
@@ -30,7 +30,7 @@ Visual Studio 是一个整体的开发环境，用于编写，编译和除错代
 
 •	要改变窗口的大小，拖拽窗口即可。
 
-图片
+![image](images/visual_studio_ide.jpg)
 
 ## 在你的网站中添加文件夹和文件
 
