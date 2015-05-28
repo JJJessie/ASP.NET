@@ -213,7 +213,7 @@ namespace eventdemo {
 
 执行页面。标签显示页面加载，页面初始化以及页面预览事件。点击按钮查看效果：
 
-图片
+![image](images/asp.net_event_example.jpg)
 
 
 
